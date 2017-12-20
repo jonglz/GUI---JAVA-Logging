@@ -1,0 +1,18 @@
+Dec 20, 2017 12:57:30 AM shippingstore.MainApp initFileHandler
+INFO: Initiating Logging
+Dec 20, 2017 12:57:34 AM shippingstore.MainApp$1 actionPerformed
+INFO: Displaying Packages
+Dec 20, 2017 12:57:35 AM shippingstore.MainApp$2 actionPerformed
+INFO: Adding Package
+Dec 20, 2017 12:57:37 AM shippingstore.MainApp$2 actionPerformed
+WARNING: Cancle Was Pressed: Package Not Created
+Dec 20, 2017 12:57:38 AM shippingstore.MainApp$4 actionPerformed
+INFO: Searching For Package
+Dec 20, 2017 12:57:39 AM shippingstore.MainApp$4 actionPerformed
+WARNING: Cancle Was Pressed: Searching Canceled
+Dec 20, 2017 12:57:40 AM shippingstore.MainApp$8 actionPerformed
+INFO: Completing Delivery
+Dec 20, 2017 12:57:42 AM shippingstore.MainApp$8 actionPerformed
+WARNING: Cancel Was Pressed: User Not Added
+Dec 20, 2017 12:57:43 AM shippingstore.MainApp$9 actionPerformed
+INFO: Displaying Transactions
